@@ -1,3 +1,6 @@
+# Following tech with tim tutorial
+# date: february 27, 2021
+
 import numpy as np
 import cv2
 
